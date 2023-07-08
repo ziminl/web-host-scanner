@@ -9,3 +9,7 @@ edit ip.txt
 
 
 > py 1.py
+
+## changelog
+
+browser extention added.
